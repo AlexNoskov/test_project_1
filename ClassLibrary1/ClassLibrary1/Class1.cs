@@ -12,5 +12,7 @@ namespace ClassLibrary1
         { }
         public void Method_2()
         { }
+        public void Method_3()
+        { }
     }
 }
